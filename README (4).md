@@ -1,7 +1,7 @@
 # [EM1413] Health Data Science
 ## Hospital Emigration in Italy — Gravity Model & Predictive Analysis
 
-**Author:** Faccin Giacomo — Student ID: 892389  
+**Author:** Faccin Giacomo, Lorenzo Vidotti, Letizia Marcellan, Giacomo Santuri 
 **Date:** May 22, 2026  
 **Language:** R (R Markdown → HTML)
 
